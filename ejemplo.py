@@ -7,4 +7,8 @@ def imprimirHola():
     
 
 imprimirHola()
+<<<<<<< HEAD
 imprimirHola(1)
+=======
+imprimirHola()
+>>>>>>> aldemar
