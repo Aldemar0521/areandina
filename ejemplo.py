@@ -5,10 +5,7 @@ print("Otra línea más")
 def imprimirHola():
     print("Hola")
     
+imprimirHola()
+imprimirHola()
 
 imprimirHola()
-<<<<<<< HEAD
-imprimirHola(1)
-=======
-imprimirHola()
->>>>>>> aldemar
